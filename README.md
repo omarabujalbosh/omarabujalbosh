@@ -127,13 +127,9 @@ int main() {
 </div>
 
 ###
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=181&section=footer&reversal=true&text=Thanks%20for%20visiting!&fontSize=40&fontColor=00b4d8&fontAlign=50&fontAlignY=70&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&reversal=true&text=Thanks%20for%20visiting!&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=70&color=00b4d8" width="100%" />
+</p>
 
 
 
