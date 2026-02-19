@@ -116,17 +116,11 @@ int main() {
 
 📊 GitHub Statistics
 <img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Domarabujalbosh%26locale%3Den%26mode%3Ddaily%26theme%3Ddracula%26hide_border%3Dfalse%26border_radius%3D5" height="150" alt="streak graph" />
-
-
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarabujalbosh&layout=compact&theme=vision-glow&hide_border=true&langs_count=6" alt="Most Used Languages" />
-
-
-
 <img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Domarabujalbosh%26radius%3D16%26theme%3Ddracula%26area%3Dtrue" height="300" alt="activity-graph graph" />
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px">
+
 
 
 
