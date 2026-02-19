@@ -36,7 +36,53 @@
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBkM3ZweGpuemZmOHMxd3AweWVxbzB3b2lmeG02enp1b3RkbTl3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n27ttWWVusVYOhb6hP/giphy.gif" width="40px"> About Me
 
+```text
+  #include <iostream>
+#include <vector>
+#include <string>
+#include <map>
 
+using namespace std;
+
+class LogicDeveloper {
+public:
+    string username = "omarabujalbosh";
+    int age = 20;
+    string role = "Lead Flutter Developer & C++ Specialist";
+
+    map<string, string> environment = {
+        {"OS", "Linux (Zarqa-Base)"},
+        {"Framework", "Flutter"},
+        {"Editor", "VS Code / Android Studio"},
+        {"Terminal", "LOGIC-OS"}
+    };
+
+    vector<string> skills = {
+        "C++", "Flutter", "Dart", "OOP", "System Architecture"
+    };
+
+    void getStatus() {
+        cout << "🚀 Learning: Advanced Flutter & System Design" << endl;
+        cout << "🛠️ Working on: Mastering Flutter & LOGIC Projects" << endl;
+        cout << "🎯 Goals: Building high-performance mobile apps" << endl;
+    }
+
+    void dailyRoutine() {
+        vector<string> routine = {
+            "Write efficient code",
+            "Solve complex Logic",
+            "Master new Flutter widgets",
+            "Lead LOGIC Team to success"
+        };
+    }
+};
+
+int main() {
+    LogicDeveloper omar;
+    cout << "⚡ " << omar.username << " - Turning logic into code since " << (2026 - omar.age) << endl;
+    return 0;
+}
+```
 
 
 
