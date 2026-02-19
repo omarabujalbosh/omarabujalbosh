@@ -4,8 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Flutter+Developer+🚀;Computer+Science+Student+🎓;C%2B%2B+%26+OOP+Specialist+💻;Linux+User+🐧;Leader+of+LOGIC+Team+🔥" alt="Typing SVG" />
   </a>
 </h1>
-```text
-  _____________________________________________________________
+```text________________________________________________________
  /                                                             \
  |    > whoami                                                 |
  |    omar_abujalboush                                         |
@@ -25,6 +24,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omarabujalbosh&label=Profile%20views&color=00b4d8&style=flat" alt="omarabujalbosh" />
 </p>
+
 
 
 
