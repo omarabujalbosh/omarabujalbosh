@@ -5,7 +5,7 @@
   </a>
 </h1>
 <p align="center">
-<a href="https://www.instagram.com/omarabujalbosh" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="omarabujalbosh" /></a>
+<a href="https://www.instagram.com/wh_r3_" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="wh_r3_" /></a>
 <a href="https://github.com/omarabujalbosh" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="omarabujalbosh" /></a>
 <a href="https://t.me/omarabujalbosh" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="omarabujalbosh" /></a>
 </p>
@@ -13,4 +13,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omarabujalbosh&label=Profile%20views&color=00b4d8&style=flat" alt="omarabujalbosh" />
 </p>
-
