@@ -85,26 +85,29 @@ int main() {
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px">
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBkM3ZweGpuemZmOHMxd3AweWVxbzB3b2lmeG02enp1b3RkbTl3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n27ttWWVusVYOhb6hP/giphy.gif" width="35px"> Tech Stack & Arsenal
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBkM3ZweGpuemZmOHMxd3AweWVxbzB3b2lmeG02enp1b3RkbTl3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n27ttWWVusVYOhb6hP/giphy.gif" width="35px"> My Skills & Arsenal
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-Programming%20Languages-000?style=flat-square&logo=ghostery&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br><br>
+
+  <img src="https://img.shields.io/badge/-Web%20Development-000?style=flat-square&logo=codeforces&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+  <br><br>
 
-<p align="center">
+  <img src="https://img.shields.io/badge/-Technologies%20%26%20Frameworks-000?style=flat-square&logo=flutter&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+  <br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tools%20%26%20IDEs-000?style=flat-square&logo=visual-studio-code&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </p>
 
